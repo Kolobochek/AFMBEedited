@@ -1,0 +1,22 @@
+{
+  "name": "afmbeedit",
+  "title": "All Flesh Must Be Eaten",
+  "description": "A digital system for playing AFMBE (All Flesh Must Be Eaten) by Eden Studios",
+  "version": 1.27,
+  "minimumCoreVersion": "0.8.9",
+  "compatibleCoreVersion": "10",
+  "templateVersion": 2,
+  "author": "Kolobochek",
+  "esmodules": [ "modules/main.js" ],
+  "styles": [ "styles/main.css" ],
+  "languages": [],
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "hp",
+  "secondaryTokenAttribute": "endurance_points",
+  "packs": [],
+  "url": "",
+  "manifest": "https://github.com/Kolobochek/AFMBEedited/system.json",
+  "download": "https://codeload.github.com/Kolobochek/AFMBEedited/zip/refs/heads/main",
+  "license": "LICENSE.txt"
+}
